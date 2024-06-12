@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Vue.JS / AIGC
 - 💬 Ask me about Database / Operating System / Python / Shell
 - 📫 How to reach me:
-  微信公众号：Nephilim
+  - 微信公众号：Nephilim
 
 ## Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leviathan-litan)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leviathan-litan)
 
 ## Github Stats
 
